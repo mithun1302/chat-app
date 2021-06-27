@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "591950224260",
+    "project_id": "hlochat-beta",
+    "storage_bucket": "hlochat-beta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591950224260:android:3f9a3f8fbcafb4cf8fdbd1",
+        "android_client_info": {
+          "package_name": "com.hloapp.hlochat_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591950224260-fmc1pmqj4meb8rmf3j6mqck20nf8ccdo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hloapp.hlochat_1",
+            "certificate_hash": "b84ddb36f35f02520ffe8958f991ded6c2b65c28"
+          }
+        },
+        {
+          "client_id": "591950224260-h4ha330b99fjvjit61g8kd6rl2338hvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMWBsTcoKORhiDkfA7QWCg9psxRpCmPFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591950224260-h4ha330b99fjvjit61g8kd6rl2338hvl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
