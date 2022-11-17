@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mithun1302
 - 👀 I’m interested in Java,Android app development and Web development
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Java & Python
 - 📫 How to reach me Email: mithunb986@gmail.com
 
 <!---
